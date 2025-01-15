@@ -1,0 +1,23 @@
+*
+{
+    background-color: bisque;
+}
+a:hover{
+    color: rgb(222, 60, 60);
+    text-decoration: dotted;
+    text-transform: uppercase;
+}
+.h{
+    text-decoration-thickness: 100px;
+    width: 400px;
+    height: 3px;
+    color: black;
+    background-color: black;
+}
+hr{
+    text-decoration-thickness: 100px;
+    width: 200px;
+    height: 2px;
+    color: black;
+    background-color: black;
+}
